@@ -1,3 +1,5 @@
+# © 2021, Universität Bern, Chair of Quantitative Methods, Manuel Kammermann, Philipp Baumann
+
 import gurobipy as gb
 import numpy as np
 from scipy.spatial.distance import cdist
